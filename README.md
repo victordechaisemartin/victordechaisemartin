@@ -9,8 +9,8 @@ class Victor:
     def __init__(self):
         self.username = 'victordechaisemartin'
         self.location = 'Nestled between lines of code and data streams'
-        self.languages = ['Python', 'R', 'SQL/NoSQL', 'Matlab']
-        self.tools = ['Pandas', 'PyTorch', 'TensorFlow', 'Spark', 'Tableau']
+        self.languages = ['Python', 'R', 'SQL/NoSQL', 'Matlab', 'html', 'css', 'Java']
+        self.tools = ['Pandas', 'PyTorch', 'TensorFlow', 'Spark', 'Tableau', 'MongoDB']
         self.current_adventure = 'Mastering the art and science of Data Analytics at ESSEC & Centrale Supélec'
         self.interests = ['Unlocking insights from data', 'Automating the mundane', 'Creating music']
 
