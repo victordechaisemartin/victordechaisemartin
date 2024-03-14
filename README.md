@@ -1,4 +1,4 @@
-### Hi there, I'm Victor 👋
+## Hi there, I'm Victor 👋
 
 🔍 **Exploring the Universe of Data**
 
@@ -21,18 +21,10 @@ me = Victor()
 me.greet()
 ```
 
-### What's Cooking in My Repository Kitchen? 🔭
-**Data Visualization Delicacies:** Savor the flavors of data through my Tableau visualizations.
-**Machine Learning Recipes:** A mix of projects showcasing predictive models and AI insights.
-**Automation Appetizers:** Small, yet impactful scripts that save time and enhance productivity.
-
-### Always Hungry for More 🌱
-Currently feasting on Deep Learning techniques and how they can solve real-world puzzles.
-Exploring the intricate world of NLP to understand the language of data better.
-
 ### Collaborate on the Menu? 👯
 Open to cooking up collaborative projects. Think we can mix our skills to create something amazing? Let's chat!
 
 ### Find Me in the Digital Realm 📫
 **LinkedIn:** Let's connect and share ideas.
+
 **Email:** victor.dechaisemartin@essec.edu
